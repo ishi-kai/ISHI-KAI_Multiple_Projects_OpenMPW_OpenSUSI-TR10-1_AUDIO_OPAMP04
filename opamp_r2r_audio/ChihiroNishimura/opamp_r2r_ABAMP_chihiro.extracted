@@ -1,0 +1,21 @@
+* Created by KLayout
+*** My special header ***
+
+* cell opamp_r2r_ABAMP_chihiro
+* pin AB_N
+* pin AB_P
+* pin CAP_N
+* pin CAP_P
+* pin OUT
+* pin VDD
+* pin VSS
+.SUBCKT opamp_r2r_ABAMP_chihiro AB_N AB_P CAP_N CAP_P OUT VDD VSS
+* device instance $1 r0 *1 -22304.2,-195968.2 PMOS
+XM$1 VDD AB_P OUT VDD PMOS L=5u W=720u AS=1119p AD=1119p PS=824.6u PD=824.6u
+* device instance $25 r0 *1 -22256.2,-196047 NMOS
+XM$25 VSS AB_N OUT VSS NMOS L=5u W=360u AS=579p AD=579p PS=428.6u PD=428.6u
+* device instance $37 r90 *1 -22477.6,-196057.4 F_CSIO
+XC$37 CAP_N OUT VSS F_CSIO C=3.897816e-12 A=6496.36p P=322.4u X=80.6 Y=80.6 m=2
+* device instance $38 r90 *1 -22477.6,-195958 F_CSIO
+XC$38 CAP_P OUT VSS F_CSIO C=3.897816e-12 A=6496.36p P=322.4u X=80.6 Y=80.6 m=2
+.ENDS opamp_r2r_ABAMP_chihiro
