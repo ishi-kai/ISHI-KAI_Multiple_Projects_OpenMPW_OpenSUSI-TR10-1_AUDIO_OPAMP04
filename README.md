@@ -35,3 +35,9 @@
 - [ISHI-KAI_Multiple_Projects_OpenMPW_OpenSUSI-TR10-1](https://github.com/ishi-kai/ISHI-KAI_Multiple_Projects_OpenMPW_OpenSUSI-TR10-1)
     - [555タイマー回路：makoto645](https://github.com/ishi-kai/ISHI-KAI_Multiple_Projects_OpenMPW_OpenSUSI-TR10-1/tree/main/member_project/555timer/makoto645/)
 
+### Clock Divider回路
+[ISHI会版OpenMPW OpenSUSI-TR10-1向けの回路やレイアウトを募集！！！](https://ishi-kai.org/openmpw/shuttle/opensusi-tr10/2026/08/31/shuttle_ISHI-Kai_OpenMPW-OpenSUSI-TR10-1_SP.html)に応募された回路とレイアウトです。  
+
+- [ISHI-KAI_Multiple_Projects_OpenMPW_OpenSUSI-TR10-1](https://github.com/ishi-kai/ISHI-KAI_Multiple_Projects_OpenMPW_OpenSUSI-TR10-1)
+    - [Clock Divider回路：ShuntaroOHNO](https://github.com/ishi-kai/ISHI-KAI_Multiple_Projects_OpenMPW_OpenSUSI-TR10-1/tree/main/member_project/ClockDivider/ShuntaroOHNO/)
+
